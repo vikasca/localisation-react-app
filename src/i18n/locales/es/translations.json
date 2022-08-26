@@ -1,0 +1,13 @@
+{
+  "welcome":"Hola {{username}} !",
+    "home":"Hogar",
+    "news":"Noticias",
+    "contact":"Contacto",
+    "about":"Sobre",
+    "user":{
+      "id":"ID",
+      "email":"Email",
+      "first_name":"Primer Nombre",
+      "last_name":"Apellido"
+    }
+  }

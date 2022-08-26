@@ -1,0 +1,17 @@
+{
+    "welcome":"नमस्ते {{username}} !",
+    "home":{
+        "title": "होम Hindi {{username}}"
+    },
+    "home":"होम",
+    "news":"ख़बर",
+    "contact":"संपर्क",
+    "about":"बारे में",
+   
+    "user":{
+        "id":"ID",
+        "email":"ईमेल",
+        "first_name":"प्रथम नाम",
+        "last_name":"उपनाम"
+      }
+  }
